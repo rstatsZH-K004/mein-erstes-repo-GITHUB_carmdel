@@ -39,3 +39,4 @@ vignettes/*.pdf
 .Renviron
 # Ignoriere folgende Dateien
 *.csv
+README.html
